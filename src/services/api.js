@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:9000";
+const BASE_URL = "https://project-backend-zeta-swart.vercel.app"; // Deployed backend
 
 const handleResponse = async (response) => {
   if (!response.ok) {
